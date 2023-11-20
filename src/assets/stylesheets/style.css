@@ -1,0 +1,4 @@
+.custom-container{
+  background-image: linear-gradient(to right, rgb(45, 204, 14),rgb(36, 129, 216),rgb(233, 36, 190),rgb(236, 101, 11),rgb(231, 72, 72),rgb(117, 33, 226),rgb(230, 216, 22));
+  box-shadow: 10px 10px 5px rgb(24, 228, 211);
+}

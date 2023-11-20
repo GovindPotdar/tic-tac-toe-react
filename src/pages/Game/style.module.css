@@ -1,0 +1,24 @@
+.grid {
+  background-color: rgba(0,0,0,.2);
+  vertical-align: center;
+  width: 40vh;
+  height: 40vh;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  border-radius: 4px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 17px 50px;
+}
+
+.space {
+  background-color: white;
+  transition: background-color .5s;  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 1px;
+}
+
+.space:hover {
+  cursor: pointer;
+}
